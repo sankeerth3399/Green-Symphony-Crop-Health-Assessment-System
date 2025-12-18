@@ -1,0 +1,8 @@
+
+{
+  "name": "Crop Health Assessment System",
+  "description": "An advanced AI-powered diagnostic tool for farmers and agronomists to identify crop diseases from images instantly using state-of-the-art vision models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
